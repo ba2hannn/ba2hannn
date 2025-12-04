@@ -1,8 +1,9 @@
-# 👋 Merhaba! Ben [ba2hannn](https://github.com/ba2hannn) 🌟
+# 👋 Merhaba! Ben Batuhan Akçan 🌟
 
 Hoş geldiniz! Bu profil, benim GitHub yolculuğumu yansıtıyor. 🚀
 
 ## 📊 Hakkımda
+- 👤 **İsim**: Batuhan Akçan
 - 💻 Yazılım tutkunu, sürekli öğreniyorum.
 - 🌍 Açık kaynak projelere katkıda bulunmayı seviyorum.
 - 🎯 Hedef: Kod yazarak dünyayı biraz daha iyi hale getirmek!
@@ -15,10 +16,10 @@ Hoş geldiniz! Bu profil, benim GitHub yolculuğumu yansıtıyor. 🚀
 
 ## 📈 GitHub İstatistiklerim
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ba2hannn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ba2hannn&layout=compact&theme=radical)
 
 ## 📫 İletişim
-- 📧 E-posta: [buraya e-posta adresinizi ekleyin]
-- 🔗 LinkedIn: [buraya LinkedIn profilinizi ekleyin]
+- 📧 **E-posta**: [makan4154@gmail.com](mailto:makan4154@gmail.com)
 
 ---
 ⭐ Eğer projelerimi beğendiyseniz, yıldız bırakın! 😊
