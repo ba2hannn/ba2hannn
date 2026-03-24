@@ -11,12 +11,17 @@ Hoş geldiniz! Bu profil, benim GitHub yolculuğumu yansıtıyor. 🚀
 ## 🛠️ Teknolojiler ve Araçlar
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 📈 GitHub İstatistiklerim
+## 📈 Başarılarım ve İstatistikler
+### GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ba2hannn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ba2hannn&layout=compact&theme=radical)
+
+### LeetCode
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Ba2hann&theme=dark)
 
 ## 📫 İletişim
 - 📧 **E-posta**: [makan4154@gmail.com](mailto:makan4154@gmail.com)
