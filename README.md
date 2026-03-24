@@ -21,7 +21,7 @@ Hoş geldiniz! Bu profil, benim GitHub yolculuğumu yansıtıyor. 🚀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ba2hannn&layout=compact&theme=radical)
 
 ### LeetCode
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Ba2hann&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ba2hannn?theme=dark&font=Recursive))
 
 ## 📫 İletişim
 - 📧 **E-posta**: [makan4154@gmail.com](mailto:makan4154@gmail.com)
