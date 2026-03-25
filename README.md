@@ -17,8 +17,9 @@ Hoş geldiniz! Bu profil, benim GitHub yolculuğumu yansıtıyor. 🚀
 
 ## 📈 Başarılarım ve İstatistikler
 ### GitHub
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=ba2hannn&show_icons=true&theme=radical](https://github-readme-stats-eta-gules.vercel.app/api?username=ba2hannn&show_icons=true&theme=radical&count_private=true])
-![Top Langs]([https://github-readme-stats-eta-gules.vercel.app/api/top-langs/?username=ba2hannn&layout=compact&theme=radical&count_private=true])
+[![GitHub Stats](https://github-readme-stats-eta-gules.vercel.app/api?username=ba2hannn&show_icons=true&theme=radical&count_private=true)](https://github.com/ba2hannn)
+
+[![Top Langs](https://github-readme-stats-eta-gules.vercel.app/api/top-langs/?username=ba2hannn&layout=compact&theme=radical&count_private=true)](https://github.com/ba2hannn)
 
 ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ba2hannn?theme=dark&font=Recursive)
