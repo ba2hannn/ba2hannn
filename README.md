@@ -26,12 +26,9 @@ Hoş geldiniz! Bu profil, benim GitHub yolculuğumu yansıtıyor. 🚀
 
 ## 🐍 GitHub Aktivite Yılanı
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ba2hannn/ba2hannn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ba2hannn/ba2hannn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ba2hannn/ba2hannn/output/github-contribution-grid-snake.svg">
-</picture>
-
+<p align="left" dir="auto">
+  <img src="https://raw.githubusercontent.com/ba2hannn/ba2hannn/output/github-snake-dark.svg" alt="Yılan Animasyonu" style="max-width: 100%;">
+</p>
 
 ## 📫 İletişim
 - 📧 **E-posta**: [makan4154@gmail.com](mailto:makan4154@gmail.com)
